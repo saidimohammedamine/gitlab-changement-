@@ -7,7 +7,7 @@ git status
 git add -A
 
 # 3. Fais un commit avec un message clair
-git commit -m "Renommage de values-5g.yaml en values.yaml"
+git commit -m "changement ....."
 
 # 4. Envoie (push) ton commit sur GitLab
 git push
